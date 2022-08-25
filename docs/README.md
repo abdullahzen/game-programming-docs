@@ -3,6 +3,10 @@
 ### Labs
 * [Lab 1](./labs/lab_1.md)  
 
+### Labs Submission Guide
+* [Submission Guide](./labs/submission_guide.md)
+
+
 ### Other
 * [Unity Setup Guide](./unity_install.md)
 
