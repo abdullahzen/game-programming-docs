@@ -1,7 +1,7 @@
 # Game Programming 2 Docs
 
 ### Labs
-* [Lab 1](./labs/lab_1.md)  
+* [Lab 1](./labs/lab_1.md)
 
 ### Labs Submission Guide
 * [Submission Guide](./labs/submission_guide.md)

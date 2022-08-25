@@ -27,5 +27,4 @@
 - Skip the tutorial, and get creative.
 
 # Submission
-Please submit the outputs of Task 2 and Task 3 by uploading it on Github in your own repo for labs in general and share the link with me on Omnivox or add my username as a collaborator `abdullahzen`.
 Refer to the following [Submission Guide](./submission_guide.md) for more details
