@@ -14,7 +14,7 @@
 > Important: after creating the project, make sure you select that you're a first-time user of unity and that you would like to do the tutorial
 
 - Follow the tutorial provided by Unity.
-- Once done with the tutorial, the project will exit.
+- Once you reach the step to build and publish the game, you're done with the tutorial and you can exit the project.
 
 # Task 2
 - Re-open the same project, but this time choose that you're familiar with unity, so you can play around with the microgame configuration.
