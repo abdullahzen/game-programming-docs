@@ -1,7 +1,8 @@
 # Game Programming 2 Docs
 
 ### Labs
-* [Lab 1](./labs/lab_1.md)
+* [Lab 1](./labs/lab_1.md)  
+
 ### Other
 * [Unity Setup Guide](./unity_install.md)
 
