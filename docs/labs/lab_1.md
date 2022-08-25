@@ -1,5 +1,7 @@
 # Lab 1
 
+> Although this lab is **not** graded, I encourage you to submit your final work by the end of the lab time even if it's a work in progress. I will be looking at the results and I will provide feedback. Please consult the [submission](#submission) section.
+
 ## Prerequisites
 * Unity is installed and set up. Check [this](../unity_install.md) guide to install it.
 * Create a Unity ID:
@@ -26,5 +28,3 @@
 
 # Submission
 Please submit the outputs of Task 2 and Task 3 either on Omnivox as a single `.zip` file with your name and id, or upload it on Github in your own repo for labs in general and share the link with me on Omnivox.
-
-> Although this lab is **not** graded, I encourage you to submit your final work by the end of the lab time even if it's a work in progress.
