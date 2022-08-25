@@ -4,7 +4,7 @@
 
 ## Prerequisites
 * Unity is installed and set up. Check [this](../unity_install.md) guide to install it.
-* Create a Unity ID:
+* Create a Unity ID, if you don't already have one:
 ![unity ID](../images/lab_1_0.png)
 
 
