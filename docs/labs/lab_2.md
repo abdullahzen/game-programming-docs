@@ -8,7 +8,7 @@
 # Task 1
 1. Create a new empty 3D project from Unity Hub
 1. Download the following .zip files which contain your assets (don't extract them):
-    - (assets)[https://1drv.ms/u/s!AvNVN__FAFfygddy3XzxNEobLJA-YQ?e=zrzmT5]
+    - [assets](https://1drv.ms/u/s!AvNVN__FAFfygddy3XzxNEobLJA-YQ?e=zrzmT5)
 1. After extraction is complete, import all your assets into your Unity Project.
     - ![image](https://docs.unity3d.com/560/Documentation/uploads/Main/ImportPackageMenu.png)
     - Click on `Import Package` -> `Custom Packages..`
