@@ -4,6 +4,7 @@
 1. Perform the following steps to create a folder for the lab and set up the `.gitignore`:
 ```bash
 git clone your_repo_url
+cd your_repo_name
 mkdir lab_x_task_y
 cd lab_x_task_y
 touch .gitignore
