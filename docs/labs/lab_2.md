@@ -18,7 +18,7 @@
 5. Create a mini bowling game with these sepcifications:
     - Pins should rest at the end of a bowling alley
     - Ability to throw the ball on the bowling alley towards the pins
-    - The ball should tumble bins it collides with
+    - The ball should tumble pins it collides with
     - Make it as realistic as in real life
     - Different balls with different colors should have different weights (masses)
     - Physics must be taken into account. i.e a higher mass ball effect on the pins should be higher than a lower mass ball.
