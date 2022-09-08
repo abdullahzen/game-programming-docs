@@ -1,5 +1,7 @@
 # Submission Guide
 
+> Make sure the `.gitignore` file is located in the root of the Unity project. (Same parent folder that contains the `Assets` folder)
+
 1. Create a single Github Repo for all future labs. (**Please make sure the repository is private**)
 1. Perform the following steps to create a folder for the lab and set up the `.gitignore`:
 ```bash
