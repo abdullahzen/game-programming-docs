@@ -5,7 +5,7 @@
 * [Lab 2](./labs/lab_2.md)
 
 ### Graded Labs
-* [Graded Lab 1](./labs/graded_lab_1.md)
+* [Graded Lab 1](./graded-labs/graded_lab_1.md)
 
 ### Labs Submission Guide
 * [Submission Guide](./labs/submission_guide.md)
