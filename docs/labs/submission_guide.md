@@ -7,11 +7,11 @@
 ```bash
 git clone your_repo_url
 cd your_repo_name
-mkdir lab_x_task_y
-cd lab_x_task_y
+mkdir lab_x
+cd lab_x
 touch .gitignore
 ```
 3. Copy the content of [this file](https://github.com/github/gitignore/blob/main/Unity.gitignore) to the `.gitignore` file you just created in the previous step.
-1. Copy all your project files (source code) to your Github repo under the corresponding lab folder e.g. `lab_x_task_y`
+1. Copy all your project files (source code) to your Github repo under the corresponding lab folder e.g. `lab_x`
 1. If you get errors about large file sizes, it means the `.gitignore` file was not added properly so please repeat the steps to add it properly.
 1. Add my username `abdullahzen` as a collaborator, so I can have access and provide feedback.
