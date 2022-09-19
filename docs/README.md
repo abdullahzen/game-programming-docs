@@ -1,4 +1,6 @@
-# Game Programming 2 Docs
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+# 🕹️ Game Programming 2 Docs - Home
 
 ### Labs
 * [Lab 1](./labs/lab_1.md)
