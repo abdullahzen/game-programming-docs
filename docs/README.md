@@ -1,6 +1,6 @@
  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-# 🕹️ Game Programming 2 Docs - Home
+# 🕹️ [Game Programming 2 Docs - Home](https://abdullahzen.github.io/game-programming-docs/)
 
 ### Labs
 * [Lab 1](./labs/lab_1.md)
