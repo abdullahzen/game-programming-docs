@@ -11,9 +11,11 @@
 * [Graded Lab 1](./graded-labs/graded_lab_1.md)
 * [Graded Lab 2](./graded-labs/graded_lab_2.md)
 
+### Solutions to previous Labs & Graded Labs
+All solutions can be found on this repo: [game-programming-labs](https://github.com/abdullahzen/game-programming-labs)
+
 ### Labs Submission Guide
 * [Submission Guide](./labs/submission_guide.md)
-
 
 ### Other
 * [Unity Setup Guide](./unity_install.md)
