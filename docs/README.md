@@ -7,6 +7,8 @@
 * [Lab 2](./labs/lab_2.md)
 * [Lab 4](./labs/lab_4.md)
 * [Lab 5](./labs/lab_5.md)
+* [Lab 6 - A](./labs/lab_6a.md)
+* [Lab 6 - B](./labs/lab_6b.md)
 
 ### Graded Labs
 * [Graded Lab 1](./graded-labs/graded_lab_1.md)
