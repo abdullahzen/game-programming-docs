@@ -15,6 +15,9 @@
 * [Graded Lab 1](./graded-labs/graded_lab_1.md)
 * [Graded Lab 2](./graded-labs/graded_lab_2.md)
 
+### Assignments
+* [Assignment](./assignments/assignment-1.md)
+
 ### Solutions to previous Labs & Graded Labs
 All solutions can be found on this repo: [game-programming-labs](https://github.com/abdullahzen/game-programming-labs)
 
