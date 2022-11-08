@@ -6,7 +6,7 @@
 * Copy Assignment into your own folder/repository (make sure you create a new repository for this assignment)
 * Load the project into unity
 > Most needed assets are included except for a few images and sounds. 
-* Copying components between projects will be considered pligarism and will result in a score of 0 on this assignment. All components that are not included in this project should be created from scratch.
+* Copying components between projects will be considered plagiarism and will result in a score of 0 on this assignment. All components that are not included in this project should be created from scratch.
 * Partial marks will not be given unless more than 50% of a feature/task is complete. (majority of a feature)
 
 # Task 1: Main menu
