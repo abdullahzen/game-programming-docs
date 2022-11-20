@@ -32,6 +32,7 @@ One member of Project Gunball (Team 4) is expected to attend that playtest sessi
 <br>
 
 ## Team numbers reference
+
 | Team 1 (Owner of Game: Destroy Daddy) |
 | - |
 | Anthony |
