@@ -21,12 +21,12 @@ One member of Project Gunball (Team 4) is expected to attend that playtest sessi
 
 | Playtest Date & Time | Game Played | Playtest Team |
 | - | - | - |
-| 4:00pm Monday, 21st November | Project Gunball | Team 1 |
+| 4:00pm Monday, 21st November | Beefy Boy | Team 1 |
 | 4:00pm Monday, 21st November | Neon Genesis | Team 6 |
-| 4:00pm Tuesday, 22nd November | Beefy Boy | Team 3 |
-| 10:00am Thursday, 24th November | RoadToTopG | Team 2 (Except Krikor,  **@Krikor** you can do the playtest in the evening class)|
-| 10:00am Thursday, 24th November | Destroy Daddy | Team 4 |
-| 4:00pm Thursday, 24th November | Need For League | Team 5 |
+| 4:00pm Tuesday, 22nd November | Destroy Daddy | Team 3 |
+| 10:00am Thursday, 24th November | RoadToTopG | Team 2 (Except Krikor,  **@Krikor** you can do the playtest in the evening class)| 
+| 10:00am Thursday, 24th November | Need for League | Team 4 |
+| 4:00pm Thursday, 24th November | Project Gunball | Team 5 |
 
 <br>
 <br>
