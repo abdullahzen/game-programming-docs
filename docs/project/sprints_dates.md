@@ -7,3 +7,11 @@
 | Sprint 3 | Oct. 3 | Oct. 28 | Build #1 | 
 | Sprint 4 | Oct. 31 | Nov. 13 | TCR Checklist + Build #2 | 
 | Sprint 5 | Nov. 14 | Dec. 6  | Build #3 |
+
+
+Final PPT Presentation Due on December 4th (submit it via omnivox (Lea) dropbox) should contain:
+* What you ended up implementing in your game
+* Pain points encountered throughout your project and how did you overcome it
+* Biggest challenege of the project
+* A brief description of implemented game mechanics
+* Motive and storyline of your game (mention if you had to change what you planned in GDD)
