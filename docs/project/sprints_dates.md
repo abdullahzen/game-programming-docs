@@ -15,3 +15,5 @@ Final PPT Presentation Due on December 4th (submit it via omnivox (Lea) dropbox)
 * Biggest challenege of the project
 * A brief description of implemented game mechanics
 * Motive and storyline of your game (mention if you had to change what you planned in GDD)
+
+> Note: All students from the team are expected to present (maybe one/two slides per person or so)
