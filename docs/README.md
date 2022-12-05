@@ -35,3 +35,4 @@ All solutions can be found on this repo: [game-programming-labs](https://github.
 # Team Project Related Docs
 * [Sprints Dates](./project/sprints_dates.md)
 * [Playtest Sessions](./project/playtest_sessions.md)
+* [Presentations Schedule](./project/presentations.md)
