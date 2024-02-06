@@ -2,6 +2,7 @@
 <head>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 </head>
+</html>
 
 # 🕹️ [Game Programming 2 Docs - Home](https://abdullahzen.github.io/game-programming-docs/)
 
@@ -26,4 +27,3 @@
 * [Git Commands](https://git-scm.com/docs/git)
 * [Unity Docs](https://docs.unity3d.com/2021.3/Documentation/Manual/index.html)
 * [Unity Scripting API Docs](https://docs.unity3d.com/2021.3/Documentation/ScriptReference/index.html)
-</html>
