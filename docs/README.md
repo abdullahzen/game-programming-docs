@@ -12,5 +12,5 @@
 
 ### External References:
 * [Git Commands](https://git-scm.com/docs/git)
-* [Unity Docs](https://docs.unity3d.com/2020.3/Documentation/Manual/index.html)
-* [Unity Scripting API Docs](https://docs.unity3d.com/2020.3/Documentation/ScriptReference/index.html)
+* [Unity Docs](https://docs.unity3d.com/2021.3/Documentation/Manual/index.html)
+* [Unity Scripting API Docs](https://docs.unity3d.com/2021.3/Documentation/ScriptReference/index.html)
