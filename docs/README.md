@@ -17,6 +17,9 @@
 * [Lab 3 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_3_Solution)
 
 
+### Graded Labs
+* [Graded Lab 1](./graded_labs/graded_lab_1.md)
+
 ### Graded Labs Submission Guide
 * [Submission Guide](./graded_labs/submission_guide.md)
 
