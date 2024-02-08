@@ -1,6 +1,5 @@
-<head>
-   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
-</head>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+
 
 # 🕹️ [Game Programming 2 Docs - Home](https://abdullahzen.github.io/game-programming-docs/)
 
