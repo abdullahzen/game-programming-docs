@@ -10,11 +10,13 @@
 * [Lab 1](./labs/lab_1.md)
 * [Lab 2](./labs/lab_2.md)
 * [Lab 3](./labs/lab_3.md)
+* [Lab 4](./labs/lab_4.md)
 
 ### Lab Solutions
 * [Lab 1 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_1_Solution)
 * [Lab 2 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_2_Solution)
 * [Lab 3 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_3_Solution)
+* [Lab 4 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_4_Solution)
 
 
 ### Graded Labs
