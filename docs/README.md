@@ -39,6 +39,6 @@
 * [Unity Scripting API Docs](https://docs.unity3d.com/2021.3/Documentation/ScriptReference/index.html)
 
 # Team Project Docs
-* [Sprints Dates](./project/sprints_dates.md)
+* [Sprints Dates](./project/sprint_dates.md)
 * [Playtest Sessions](./project/playtest_sessions.md)
 * [Presentations Schedule](./project/presentations.md)
