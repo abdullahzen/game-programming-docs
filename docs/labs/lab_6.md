@@ -9,9 +9,9 @@ We will import a Robot asset from the unity asset store, and then apply some ani
 
 # Tasks and Steps
 
-* Go to Unity asset store and add the asset to unity: (https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696)[https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696]
+* Go to Unity asset store and add the asset to unity: [link](https://assetstore.unity.com/packages/3d/characters/robots/robot-kyle-urp-4696)
 * Drag and drop the robot to the scene, create its material from the textures and apply it on the robot. 
-* Create an account on Mixamo: (https://www.mixamo.com/)[https://www.mixamo.com/]
+* Create an account on Mixamo: [link](https://www.mixamo.com/)
 * Upload the character .fbx model located in your Assets/UnityTechnologies/.../Model 
 * Wait for Auto-rigging. Reminder: Rigging a character is mapping a skeleton to the character to enable us to assign animations to it based on that skeleton. 
 * Download the desired animation from the website with the following options: 
