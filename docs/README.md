@@ -19,7 +19,8 @@
 * [Lab 2 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_2_Solution)
 * [Lab 3 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_3_Solution)
 * [Lab 4 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_4_Solution)
-
+* [Lab 5 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_5_Solution)
+* [Lab 6 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_6_Solution)
 
 ### Graded Labs
 * [Graded Lab 1](./graded_labs/graded_lab_1.md)
@@ -32,6 +33,11 @@
 ### Graded Labs Submission Guide
 * [Submission Guide](./graded_labs/submission_guide.md)
 
+# Team Project Docs
+* [Sprints Dates](./project/sprint_dates.md)
+* [Playtest Sessions](./project/playtest_sessions.md)
+* [Presentations Schedule](./project/presentations.md)
+
 ### Other
 * [Unity Setup Guide](./unity_install.md)
 
@@ -40,7 +46,3 @@
 * [Unity Docs](https://docs.unity3d.com/2021.3/Documentation/Manual/index.html)
 * [Unity Scripting API Docs](https://docs.unity3d.com/2021.3/Documentation/ScriptReference/index.html)
 
-# Team Project Docs
-* [Sprints Dates](./project/sprint_dates.md)
-* [Playtest Sessions](./project/playtest_sessions.md)
-* [Presentations Schedule](./project/presentations.md)
