@@ -9,10 +9,8 @@
 
 
 # Task 1
-> [!NOTE]
->   Although it is not required, it is good practice to create the main menu in a separate scene.  
+> Although it is not required, it is good practice to create the main menu in a separate scene.  
 
-> [!TIP]
 > Tip: it's good practice to have one separate script for all actions of the main menu 
 
 * Create a main menu with the following:
@@ -23,8 +21,8 @@
 * Game should pause when `Esc` is pressed on the keyboard and the following menu should appear:
     * Resume Game: resumes the game.
     * Main Menu: restarts the game.
-* Look for a clicking sound effect on the internet and import it to the project
-* Play the clicking sound whenever the mouse is clicking a button on the menu
+* (Bonus) Look for a clicking sound effect on the internet and import it to the project
+* (Bonus) Play the clicking sound whenever the mouse is clicking a button on the menu
 
 # Task 2
 * Implement a simple scoring system (already exists in code) and display the score with the number of hits on the top right corner of the screen:
