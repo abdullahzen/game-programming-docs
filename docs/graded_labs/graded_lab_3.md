@@ -35,7 +35,7 @@
 * Implement a nice UI showing a Game Over sign, if the player takes more than 5 tries in hitting all the bowling pins.
 
 # References
-- https://docs.unity3d.com/Packages/com.unity.ugui@2.0/manual/index.html
+- [https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/index.html](https://docs.unity3d.com/Packages/com.unity.ugui@1.0/manual/UICanvas.html)
 - https://abdullahzen.github.io/game-programming-docs/ 
 
 # Submission
