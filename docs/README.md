@@ -25,6 +25,7 @@
 ### Graded Labs
 * [Graded Lab 1](./graded_labs/graded_lab_1.md)
 * [Graded Lab 2](./graded_labs/graded_lab_2.md)
+* [Graded Lab 3](./graded_labs/graded_lab_3.md)
 
 ### Graded Labs Solutions
 * [Graded Lab 1 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Graded_Lab_1_Solution)
