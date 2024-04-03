@@ -30,6 +30,7 @@
 ### Graded Labs Solutions
 * [Graded Lab 1 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Graded_Lab_1_Solution)
 * [Graded Lab 2 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Graded_Lab_2_Solution)
+* [Graded Lab 3 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Graded_Lab_3_Solution)
 
 ### Graded Labs Submission Guide
 * [Submission Guide](./graded_labs/submission_guide.md)
