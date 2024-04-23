@@ -35,6 +35,9 @@
 ### Graded Labs Submission Guide
 * [Submission Guide](./graded_labs/submission_guide.md)
 
+### Assignments
+* [Bonus Assignment](./assignments/assignment.md)
+
 # Team Project Docs
 * [Sprints Dates](./project/sprint_dates.md)
 * [Playtest Sessions](./project/playtest_sessions.md)
