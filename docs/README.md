@@ -13,6 +13,9 @@
 * [Lab 4](./labs/lab_4.md)
 * [Lab 5](./labs/lab_5.md)
 * [Lab 6](./labs/lab_6.md)
+* [Lab 7](./labs/lab_7.md)
+* [Lab 8](./labs/lab_8.md)
+
 
 ### Lab Solutions
 * [Lab 1 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_1_Solution)
