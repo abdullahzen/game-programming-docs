@@ -25,6 +25,8 @@
 * [Lab 5 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_5_Solution)
 * [Lab 6 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_6_Solution)
 * [Lab 7 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_7_Solution)
+* [Lab 8 Solution](https://github.com/abdullahzen/game-programming-solutions/tree/main/Lab_8_Solution)
+
 
 ### Graded Labs
 * [Graded Lab 1](./graded_labs/graded_lab_1.md)
