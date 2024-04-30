@@ -1,5 +1,5 @@
 # Assignment: Devilion
-**Weight: 12% (Bonus) | Deadline: 11:59pm Wednesday, May 22nd, 2024**
+**Weight: 12% (Bonus) | Deadline: 11:59pm Sunday, May 26th, 2024**
 
 ## Prerequisites and rules
 * Download the starting project: https://1drv.ms/u/s!AvNVN__FAFfyhJpolnsVBdpDMPOCJA?e=OpcpQ8
