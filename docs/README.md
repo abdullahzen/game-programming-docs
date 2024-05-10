@@ -46,7 +46,6 @@
 
 # Team Project Docs
 * [Sprints Dates](./project/sprint_dates.md)
-* [Playtest Sessions](./project/playtest_sessions.md)
 * [Presentations Schedule](./project/presentations.md)
 
 ### Other
